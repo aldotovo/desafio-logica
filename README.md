@@ -45,10 +45,6 @@ O herói de nome Jogador está no nível de Radiante
 - **XP = 1500** → "Bronze"
 - **XP = 8500** → "Ascendente"
 
-## Notas Importantes 🚨
-1. **Espaçamento correto:** O espaço entre o nome do jogador e a mensagem está formatado corretamente: `" + nickname + " está no nível de "`.
-2. **Flexibilidade:** Basta alterar o valor de `XP` para testar diferentes saídas.
-
 ---
 
 ## Como Executar? ⚡
@@ -70,8 +66,4 @@ O herói de nome Jogador está no nível de Radiante
 
 ## Sugestões e Melhorias 🚀
 Se você tiver ideias para melhorar este projeto, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. Adoramos colaborações!
-
----
-
-Feito com ❤️ para a comunidade de desenvolvedores!
 
